@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2017 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+  <string name="cat_switch_title"
+    description="开关组件演示范例的标题 [字符限制=无]">
+    开关
+  </string>
+  <string name="cat_switch_description"
+    description="开关组件演示范例的描述文本 [字符限制=无]">
+    开关是一种可在两种状态间切换的独立交互组件。
+  </string>
+  <string name="cat_switch_color_guide"
+    description="开关启用状态外观的描述文本 [字符限制=无]">
+    开关的样式会随主题次要色（colorSecondary）的变化而调整
+  </string>
+  <string name="cat_switch_disabled_guide"
+    description="开关禁用状态外观的描述文本 [字符限制=无]">
+    处于禁用状态的开关无法进行交互，且视觉上会呈现褪色效果。
+  </string>
+  <string name="cat_switch_enabled"
+    description="启用状态开关的标签 [字符限制=无]">
+    已启用
+  </string>
+  <string name="cat_switch_disabled"
+    description="禁用状态开关的标签 [字符限制=无]">
+    已禁用
+  </string>
+  <string name="cat_switch_toggleable_description"
+    description="说明开关控制启用状态功能的标签文本 [字符限制=无]">
+    打开此开关，即可控制目标组件的启用状态。
+  </string>
+  <string name="cat_switch_toggle"
+    description="示例开关的标签文本 [字符限制=无]">
+    由开关控制
+  </string>
+</resources>
